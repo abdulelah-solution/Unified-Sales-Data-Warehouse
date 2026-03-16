@@ -83,7 +83,9 @@ The journey doesn't stop here. Version 2.0 is already on the horizon:
 
 ---
 
-✍️ About the Author
+## ✍️ About the Author
+**Abdulelah** – A Data Engineer in the making, driven by curiosity and fueled by discipline. 
 
-Abdulelah – A Data Engineer in the making, driven by curiosity and fueled by discipline. This project is just the beginning.
-"I am coming, and the best is yet to be, by the will of Allah."
+🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/abdulelah-muhmin-a215a41a1/)**
+
+> *"I am coming, and the best is yet to be, by the will of Allah."*
